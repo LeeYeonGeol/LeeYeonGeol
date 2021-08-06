@@ -6,16 +6,16 @@ I'm interested in ML/DL  from South Korea.
 
 if you want to contact me, please leave me a message!
 
-### Experience
+## Experience
 
 - AI Tech Boost Camp (Naver Connect) (Aug 2021 ~)
 
-### Summary
+## Summary
 
 - I majored in computer science.
 - I currently interested in ML/DL.
 
-### Github Stats
+## Github Stats
 
 <table><tr><td valign="top" width="50%">
 
@@ -29,7 +29,9 @@ if you want to contact me, please leave me a message!
 
 <br/>
 
+## BOJ Rank
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=f2f42020)](https://solved.ac/f2f42020)
 
 
 
