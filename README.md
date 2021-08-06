@@ -27,9 +27,7 @@ if you want to contact me, please leave me a message!
 
 <br/>
 
-### BOJ Rank
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=f2f42020)](https://solved.ac/f2f42020)
 
 
 
