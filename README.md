@@ -8,7 +8,7 @@ if you want to contact me, please leave me a message!
 
 ## Experience
 
-- AI Tech Boost Camp (Naver Connect) (Aug 2021 ~)
+- AI Tech Boost Camp 2nd (Naver Connect) (Aug 2021 ~)
 
 ## Summary
 
