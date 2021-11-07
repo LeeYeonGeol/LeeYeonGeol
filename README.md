@@ -6,6 +6,8 @@ I'm interested in ML/DL  from South Korea.
 
 if you want to contact me, please leave me a message!
 
+It's my [CV](https://charming-land-29c.notion.site/422d69ae7dbf4f1ca7e34f5570517935)
+
 ## Experience
 
 - AI Tech Boost Camp 2nd (Naver Connect) (Aug 2021 ~)
