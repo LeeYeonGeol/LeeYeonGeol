@@ -10,7 +10,7 @@ It's my [CV](https://charming-land-29c.notion.site/422d69ae7dbf4f1ca7e34f5570517
 
 ## Experience
 
-- AI Tech Boost Camp 2nd (Naver Connect) (Aug 2021 ~)
+- AI Tech Boost Camp 2nd (Naver Connect) (Aug 2021 ~ Dec 2021)
 
 ## Summary
 
