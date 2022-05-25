@@ -2,7 +2,7 @@
 
 **Hello, I'm Yeongeol Lee!**
 
-I'm interested in ML/DL  from South Korea.
+I'm interested in ML/DL/DE  from South Korea.
 
 if you want to contact me, please leave me a message!
 
@@ -15,7 +15,7 @@ It's my [CV](https://charming-land-29c.notion.site/422d69ae7dbf4f1ca7e34f5570517
 ## Summary
 
 - I majored in computer science.
-- I currently interested in ML/DL.
+- I currently interested in ML/DL/DE.
 
 ## Github Stats
 
