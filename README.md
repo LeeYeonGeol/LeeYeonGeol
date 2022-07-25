@@ -7,6 +7,7 @@ I'm interested in ML/DL/DE  from South Korea.
 if you want to contact me, please leave me a message!
 
 It's my [CV](https://charming-land-29c.notion.site/422d69ae7dbf4f1ca7e34f5570517935)
+
 It's my [Blog](https://lottegiantsv3.tistory.com/)
 
 ## Experience
